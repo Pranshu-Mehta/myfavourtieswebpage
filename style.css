@@ -1,0 +1,50 @@
+html {
+    background-color: bisque;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 1px auto;    
+    text-align: center;
+    width: 650px;
+    padding: 25px 150px 50px;
+}
+
+
+.center {
+    text-align: center;
+}
+
+a {
+    color: maroon;
+}
+
+a:hover {
+    font-weight: bold;
+}
+
+.red {
+    color: rgb(167, 10, 10);
+}
+
+.blue {
+    color: rgb(24, 24, 153);
+}
+
+.gray {
+    color: rgb(63, 63, 63);
+}
+
+ul {
+    text-align: left;
+    width: 425px;
+    margin: 20px auto;
+}
+
+h2 {
+    margin: 10px auto;
+    color: rgb(97, 95, 95);
+}
+
+h1 {
+    text-decoration: underline;
+    margin: 50px auto;
+    text-decoration-color: rgb(167, 10, 10);
+}
